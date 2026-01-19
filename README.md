@@ -8,7 +8,7 @@ npm-server-boot-script-custom shell파일
 - 인스턴스 생성 후, 터미널에 다음을 입력하고 실행
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/robinhood0107/npm-server-boot-script-custom/refs/heads/main/npm-server-boot-script-custom.sh -o oci-boot-script.sh
+curl -fsSL https://raw.githubusercontent.com/robinhood0107/npm-server-boot-script-custom/refs/heads/main/npm-server-boot-script-custom.sh -o npm-server-boot-script-custom.sh
 sudo sh npm-server-boot-script-custom.sh
 ```
 
