@@ -9,7 +9,7 @@ npm-server-boot-script-custom shell파일
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/robinhood0107/npm-server-boot-script-custom/refs/heads/main/npm-server-boot-script-custom.sh -o oci-boot-script.sh
-sudo sh oci-boot-script.sh
+sudo sh npm-server-boot-script-custom.sh
 ```
 
 ## shell 실행시 설정하는 항목들
